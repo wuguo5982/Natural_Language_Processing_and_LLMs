@@ -8,7 +8,7 @@
 4. **Retrieval-augmented generation (RAG)** \
    (a). Extracts, chunks, and loads various contents (PDFs, webpages, tables, SQL, etc.) into a Vector database (FAISS, Chroma, Pinecone, etc.). \
    (b). Querries for semantic similirarity search. \
-   (c). Uses prompts and sequential chains for follow-up conversation. \
+   (c). Uses prompts and sequential chains for follow-up conversation. 
    
 5. **LLMOps**
 
