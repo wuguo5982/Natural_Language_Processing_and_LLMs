@@ -11,4 +11,6 @@
    (c). Uses prompts and sequential chains for follow-up conversation. 
    
 5. **LLMOps**
+   Streamlit \
+   Langsmith
 
