@@ -10,7 +10,7 @@
    (b). Querries for semantic similirarity search. \
    (c). Uses prompts and sequential chains for follow-up conversation. 
    
-5. **LLMOps**
+5. **LLMOps** \
    Streamlit \
    Langsmith
 
