@@ -2,6 +2,8 @@
 
 ## Large Language Models (LLMs)
 
+## Knowledge Graph (Updating)
+
 1. **LLMs models** <br>
    (a). OpenAI \
    (b). Gemini Pro \
@@ -16,6 +18,8 @@
    (c). Uses prompts and sequential chains for follow-up conversation. 
    
 5. **LLMOps** \
+   MLFlow   \
    Streamlit \
+   Hugging Face \
    Langsmith
 
