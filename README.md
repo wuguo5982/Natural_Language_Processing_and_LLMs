@@ -7,8 +7,9 @@
 1. **LLMs models** <br>
    (a). OpenAI \
    (b). Gemini Pro \
-   (c). LLama2/3 \
-   (d). Others ...
+   (c). ILama3 \
+   (d). DeepSeek \
+   (e). Others ...
 3. **LangChain** <br>
 4. **Vector Databases** <br>
 5. **Fine tuning**  <br>
