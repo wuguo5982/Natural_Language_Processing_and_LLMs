@@ -8,7 +8,7 @@
    (a). OpenAI \
    (b). Gemini Pro \
    (c). ILama3 \
-   (d). DeepSeek \
+   (d). DeepSeek R1 \
    (e). Others ...
 3. **LangChain** <br>
 4. **Vector Databases** <br>
