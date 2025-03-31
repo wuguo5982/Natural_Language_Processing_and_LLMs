@@ -1,4 +1,4 @@
-# ☘️ Projects in NLP & LLM Engineering
+# ☘️ Overview of NLP & LLMs Projects
 
 This document provides a comprehensive and structured overview of foundational techniques, frameworks, and infrastructure for building intelligent applications using **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**.
 
