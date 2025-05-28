@@ -44,11 +44,11 @@ Core NLP techniques that power language understanding, information extraction, a
 
 Prompt engineering focuses on designing effective inputs to guide LLM behavior and improve output quality.
 
-#### Types of Prompts:
+#### (a). Types of Prompts:
 - **System Prompts** – Define overarching behavior and rules for the LLM  
 - **User Prompts** – Provide task-specific input or questions for the model
 
-#### Key Techniques:
+#### (b). Key Techniques:
 - **Zero-shot / One-shot / Few-shot Prompting** – Adjusting examples to shape model behavior  
 - **Role-based Prompting** – Assigning personas or instructions to influence style and tone  
 - **Instruction Tuning** – Optimizing prompts for specific tasks or use cases  
@@ -59,7 +59,7 @@ Prompt engineering is critical for enhancing tasks such as classification, summa
 
 ### 3). Model Optimization & Knowledge Retrieval
 
-#### Fine-Tuning
+#### (a). Fine-Tuning
 
 Adapts general-purpose models for specialized domains using labeled data.
 
@@ -71,7 +71,7 @@ Adapts general-purpose models for specialized domains using labeled data.
 
 ---
 
-#### Retrieval-Augmented Generation (RAG)
+#### (b). Retrieval-Augmented Generation (RAG)
 
 RAG enhances LLM output by injecting context from external knowledge sources.
 
