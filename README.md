@@ -81,7 +81,7 @@ RAG enhances LLM output by injecting context from external knowledge sources.
   -  **Vector Search** – Retrieve semantically relevant content from a vector database  
   -  **Prompt Augmentation** – Enrich LLM prompts with retrieved information
   
-  **ii). Popular Vector Databases:**
+  **ii). Popular Vector Databases Used:**
   - `FAISS`  
   - `Chroma`  
   - `Pinecone`
