@@ -1,4 +1,4 @@
-# ☘️ Overview of NLP & LLMs Projects
+#  Overview of NLP & LLMs Projects
 
 This document provides a comprehensive and structured overview of foundational techniques, frameworks, and infrastructure for building intelligent applications using **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**.
 
@@ -7,7 +7,7 @@ Key topics include:
 
 ---
 
-## 🤖 Natural Language Processing (NLP)
+## Natural Language Processing (NLP)
 
 Core NLP techniques that power language understanding, information extraction, and contextual reasoning:
 
@@ -28,7 +28,7 @@ Core NLP techniques that power language understanding, information extraction, a
 
 ---
 
-## 🤖 Large Language Models (LLMs)
+## Large Language Models (LLMs)
 
 ### 1. Major Model Providers
 
@@ -59,7 +59,7 @@ Prompt engineering is critical for enhancing tasks such as classification, summa
 
 ### 3. Model Optimization & Knowledge Retrieval
 
-#### 🔧 Fine-Tuning
+#### Fine-Tuning
 
 Adapts general-purpose models for specialized domains using labeled data.
 
@@ -71,7 +71,7 @@ Adapts general-purpose models for specialized domains using labeled data.
 
 ---
 
-#### 🔄 Retrieval-Augmented Generation (RAG)
+#### Retrieval-Augmented Generation (RAG)
 
 RAG enhances LLM output by injecting context from external knowledge sources.
 
@@ -88,7 +88,7 @@ RAG enhances LLM output by injecting context from external knowledge sources.
 
 ---
 
-## ⚙️ LLMOps: Infrastructure & Lifecycle Management
+## LLMOps: Infrastructure & Lifecycle Management
 
 Tools and best practices for developing, deploying, and monitoring LLM-powered systems:
 
@@ -100,7 +100,7 @@ Tools and best practices for developing, deploying, and monitoring LLM-powered s
 
 ---
 
-## 🌐 Knowledge Graphs *(In Development)*
+## Knowledge Graphs *(In Development)*
 
 Structured graphs that represent semantic relationships between entities and concepts.
 
@@ -112,7 +112,7 @@ Structured graphs that represent semantic relationships between entities and con
 
 ---
 
-## 🤖 AGNO Framework *(In Development)*
+## AGNO Framework *(In Development)*
 
 **AGNO** is a modular, agentic framework that combines advanced LLM capabilities with system integration tools.
 
@@ -126,7 +126,7 @@ Structured graphs that represent semantic relationships between entities and con
 
 ---
 
-## 🔁 What’s Next: Agentic AI
+## What’s Next: Agentic AI
 
 LLMs are evolving into **autonomous agents** capable of reasoning, memory retention, planning, and task execution.
 
