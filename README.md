@@ -57,7 +57,7 @@ Prompt engineering is critical for enhancing tasks such as classification, summa
 
 ---
 
-### 3). Model Optimization & Knowledge Retrieval Used
+### 3). Model Optimization & Knowledge Retrieval Used:
 
 #### (a). Fine-Tuning
 
