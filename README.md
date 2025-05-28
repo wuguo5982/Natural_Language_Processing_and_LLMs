@@ -76,10 +76,10 @@ Adapts general-purpose models for specialized domains using labeled data.
 RAG enhances LLM output by injecting context from external knowledge sources.
 
 **RAG Workflow:**
-1. **Data Extraction** – Parse and chunk content from PDFs, web pages, SQL databases, etc.  
-2. **Embedding** – Convert chunks to vector representations using embedding models  
-3. **Vector Search** – Retrieve semantically relevant content from a vector database  
-4. **Prompt Augmentation** – Enrich LLM prompts with retrieved information
+-  **Data Extraction** – Parse and chunk content from PDFs, web pages, SQL databases, etc.  
+-  **Embedding** – Convert chunks to vector representations using embedding models  
+-  **Vector Search** – Retrieve semantically relevant content from a vector database  
+-  **Prompt Augmentation** – Enrich LLM prompts with retrieved information
 
 **Popular Vector Databases:**
 - `FAISS`  
