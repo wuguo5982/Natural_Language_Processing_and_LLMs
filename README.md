@@ -30,7 +30,7 @@ Core NLP techniques that power language understanding, information extraction, a
 
 ## Large Language Models (LLMs)
 
-### 1. Major Model Providers
+### 1). Major Model Providers
 
 - **OpenAI** – GPT-3.5, GPT-4, GPT-4o, GPT-4o-mini  
 - **Meta (LLaMA 3)** – Open-source LLMs designed for flexibility and performance  
@@ -40,7 +40,7 @@ Core NLP techniques that power language understanding, information extraction, a
 
 ---
 
-### 2. ✨ Prompt Engineering 
+### 2).  Prompt Engineering 
 
 Prompt engineering focuses on designing effective inputs to guide LLM behavior and improve output quality.
 
@@ -57,7 +57,7 @@ Prompt engineering is critical for enhancing tasks such as classification, summa
 
 ---
 
-### 3. Model Optimization & Knowledge Retrieval
+### 3). Model Optimization & Knowledge Retrieval
 
 #### Fine-Tuning
 
